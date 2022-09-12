@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chirrm
 - 👀 I’m interested in Design Management
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on Desing
+- 💞️ I’m looking to collaborate on Design
 - 📫 How to reach me : Dont
 
 <!---
